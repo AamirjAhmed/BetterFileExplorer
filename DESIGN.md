@@ -12,6 +12,8 @@ We intend to use Python to design our application.
   -  Settings
   -  Differentiating bash files
 
+### Regarding UI
+  - Currently we are looking for a suitable python library to code the UI with. 
 
 ### File Indexer:
   - This python file will take the tree outputted from the bash file, and index the path to each file in a data structure **need to decide data structure/temp storage system**
